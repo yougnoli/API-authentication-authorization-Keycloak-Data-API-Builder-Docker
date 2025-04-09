@@ -81,7 +81,7 @@ More details in the [Medium article](https://medium.com/@tugnolialessio).
 ## 📚 References
 
 - [Keycloak Documentation](https://www.keycloak.org/documentation)
-- [Data API Builder](https://github.com/Azure/data-api-builder)
+- [Data API Builder]([https://github.com/Azure/data-api-builder](https://learn.microsoft.com/en-us/azure/data-api-builder/))
 - [OAuth2 Specification](https://oauth.net/2/)
 - [JWT.IO](https://jwt.io/)
 
