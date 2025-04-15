@@ -90,6 +90,6 @@ More details in the [Medium article](https://medium.com/@tugnolialessio).
 ## 🛠 Author
 
 **Alessio Tugnoli**  
-📝 Medium: [API Authentication and Authorization with Keycloak and Data API Builder in Docker]([https://medium.com/@tugnolialessio](https://medium.com/@tugnolialessio/api-authentication-and-authorization-with-keycloak-and-data-api-builder-in-docker-91ad6cf20a45))
+📝 Medium: [API Authentication and Authorization with Keycloak and Data API Builder in Docker](https://medium.com/@tugnolialessio/api-authentication-and-authorization-with-keycloak-and-data-api-builder-in-docker-91ad6cf20a45)
 
 ---
